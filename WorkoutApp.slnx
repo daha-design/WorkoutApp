@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WorkoutApp.Model/WorkoutApp.Console/WorkoutApp.Console.csproj" />
+  <Project Path="WorkoutApp.Model/WorkoutApp.Model/WorkoutApp.Model.csproj" />
+  <Project Path="WorkoutApp.Model/WorkoutApp.WinForms/WorkoutApp.WinForms.csproj" />
+</Solution>
