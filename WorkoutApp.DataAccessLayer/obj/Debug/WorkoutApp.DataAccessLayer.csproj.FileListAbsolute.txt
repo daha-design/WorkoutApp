@@ -21,3 +21,6 @@ C:\Users\dasha\OneDrive\Документы\учеба\архитектуры\Wor
 C:\Users\dasha\OneDrive\Документы\учеба\архитектуры\WorkoutApp.DataAccessLayer\obj\Debug\WorkoutA.B0936802.Up2Date
 C:\Users\dasha\OneDrive\Документы\учеба\архитектуры\WorkoutApp.DataAccessLayer\obj\Debug\WorkoutApp.DataAccessLayer.dll
 C:\Users\dasha\OneDrive\Документы\учеба\архитектуры\WorkoutApp.DataAccessLayer\obj\Debug\WorkoutApp.DataAccessLayer.pdb
+C:\Users\dasha\OneDrive\Документы\учеба\архитектуры\WorkoutApp.DataAccessLayer\bin\Debug\WorkoutApp.DataAccessLayer.dll.config
+C:\Users\dasha\OneDrive\Документы\учеба\архитектуры\WorkoutApp.DataAccessLayer\bin\Debug\Ninject.dll
+C:\Users\dasha\OneDrive\Документы\учеба\архитектуры\WorkoutApp.DataAccessLayer\bin\Debug\Ninject.xml

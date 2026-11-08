@@ -8,9 +8,10 @@ namespace WorkoutApp.DataAccessLayer
     {
         private readonly WorkoutAppDbContext _context;
 
-        public EntityRepository()
+        // Теперь контекст передается извне
+        public EntityRepository(WorkoutAppDbContext context)
         {
-            _context = new WorkoutAppDbContext();
+            _context = context;
         }
 
         public void Add(T item) { _context.Set<T>().Add(item); _context.SaveChanges(); }
